@@ -48,7 +48,7 @@ KEYMAPS = {
         '-s' : 'y',
         '-n' : 'h',
         'arpeggiate': 'space',
-        }
+        },
         'Gemini PR': {
         '*-' : 'S1-',
         'S-' : 'S2-',
@@ -75,7 +75,7 @@ KEYMAPS = {
         '-r' : '-R',
         '-s' : '*2',
         '-n' : '*4',
-}
+},
         }
 
 DICTIONARIES_ROOT = 'asset:plover_japanese_hachidori:dictionaries'
