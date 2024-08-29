@@ -51,5 +51,5 @@ KEYMAPS = {
         }
         }
 
-DICTIONARIES_ROOT = 'asset:plover_japanese_machibari:dictionaries'
+DICTIONARIES_ROOT = 'asset:plover_japanese_hachidori:dictionaries'
 DEFAULT_DICTIONARIES = ('kana.json')
