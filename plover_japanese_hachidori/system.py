@@ -75,7 +75,7 @@ KEYMAPS = {
         '-r' : '-R',
         '-s' : '*2',
         '-n' : '*4',
-        },
+        }
         }
 
 DICTIONARIES_ROOT = 'asset:plover_japanese_hachidori:dictionaries'
